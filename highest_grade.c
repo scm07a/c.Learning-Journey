@@ -1,5 +1,4 @@
 #include <stdio.h>
-// TODO: 
 int mem_lim(int n)
 {
     if (n > 999)
