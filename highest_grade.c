@@ -1,6 +1,8 @@
 // TODO:Remember to actually implement highest grade...
 #include <stdio.h>
-// int high_grade(int grades[5][2]);
+
+int high_grade(int grades[5][2]);
+
 int main()
 {
     int id[5], grade[5], grades[5][2];
