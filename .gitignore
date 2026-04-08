@@ -1,0 +1,11 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Build folders
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
